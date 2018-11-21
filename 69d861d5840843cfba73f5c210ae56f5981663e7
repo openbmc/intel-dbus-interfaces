@@ -1,0 +1,10 @@
+Code-Review+1: James Feist <james.feist@linux.intel.com>
+Code-Review+2: Yong Li <yong.b.li@intel.com>
+Verified+1: Yong Li <yong.b.li@intel.com>
+Ok-To-Test+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Verified+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Submitted-by: Yong Li <yong.b.li@intel.com>
+Submitted-at: Wed, 21 Nov 2018 00:13:55 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/15566
+Project: openbmc/intel-dbus-interfaces
+Branch: refs/heads/master
