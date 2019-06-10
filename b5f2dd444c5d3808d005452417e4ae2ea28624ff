@@ -1,0 +1,11 @@
+Ok-To-Test+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Verified+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Code-Review+1: Yong Li <yong.b.li@intel.com>
+Code-Review+1: Jennifer Lee <jennifer1.lee@intel.com>
+Code-Review+1: Jia, Chunhui <chunhui.jia@linux.intel.com>
+Code-Review+2: James Feist <james.feist@linux.intel.com>
+Submitted-by: Chen, Yugang <yugang.chen@linux.intel.com>
+Submitted-at: Mon, 10 Jun 2019 00:50:56 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/intel-dbus-interfaces/+/21699
+Project: openbmc/intel-dbus-interfaces
+Branch: refs/heads/master
