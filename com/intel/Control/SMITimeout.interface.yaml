@@ -1,0 +1,8 @@
+description: >
+    An interface for SMI time out.
+properties:
+    - name: Enabled
+      type: boolean
+      description: >
+          whether BMC enables SMI.
+      default: true
