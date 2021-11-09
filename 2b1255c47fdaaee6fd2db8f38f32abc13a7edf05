@@ -1,0 +1,9 @@
+Ok-To-Test+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Verified+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Code-Review+1: Yong Li <yong.b.li@intel.com>
+Code-Review+2: Richard Marian Thomaiyar <richard.marian.thomaiyar@linux.intel.com>
+Submitted-by: ManojKiran Eda <manojkiran.eda@gmail.com>
+Submitted-at: Tue, 09 Nov 2021 01:32:57 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/intel-dbus-interfaces/+/48096
+Project: openbmc/intel-dbus-interfaces
+Branch: refs/heads/master
